@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project name="D:\Web SEO\Web SEO.clpprj">
+ <settings>
+  <PM_URL><![CDATA[http://localhost/D:/Web SEO]]></PM_URL>
+  <PM_HOME_URL><![CDATA[http://localhost/D:/Web SEO]]></PM_HOME_URL>
+  <PM_LIBS><![CDATA[]]></PM_LIBS>
+  <PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION>
+  <PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR>
+  <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
+  <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
+ </settings>
+ <removed value=";"/>
+ <added value=""/>
+ <lastopfiles>
+  <file name="D:\Web SEO\SHOPNOW.html"/>
+  <file name="D:\Web SEO\VANPHONGPHAM.html"/>
+  <file name="D:\Web SEO\vanphongpham.css"/>
+  <file name="D:\Web SEO\contentvp.html"/>
+  <lastactivefile name=""/>
+ </lastopfiles>
+ <todoblock/>
+ <dbgurls/>
+ <lasttime value="1684761321"/>
+</project>
