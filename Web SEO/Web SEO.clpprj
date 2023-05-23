@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<project name="D:\Web SEO\Web SEO.clpprj">
+<project name="C:\Users\Trinh Gia Bao\Desktop\SEO\Web SEO\Web SEO.clpprj">
  <settings>
   <PM_URL><![CDATA[http://localhost/D:/Web SEO]]></PM_URL>
   <PM_HOME_URL><![CDATA[http://localhost/D:/Web SEO]]></PM_HOME_URL>
@@ -9,16 +9,17 @@
   <PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE>
   <PM_LANGUAGE><![CDATA[]]></PM_LANGUAGE>
  </settings>
- <removed value=";"/>
+ <removed value=";C:\Users\Trinh Gia Bao\Desktop\SEO\Web SEO\contentvp.html;"/>
  <added value=""/>
  <lastopfiles>
-  <file name="D:\Web SEO\SHOPNOW.html"/>
-  <file name="D:\Web SEO\VANPHONGPHAM.html"/>
-  <file name="D:\Web SEO\vanphongpham.css"/>
-  <file name="D:\Web SEO\contentvp.html"/>
+  <file name="C:\Users\Trinh Gia Bao\Desktop\SEO\Web SEO\SHOPNOW.html"/>
+  <file name="C:\Users\Trinh Gia Bao\Desktop\SEO\Web SEO\VANPHONGPHAM.html"/>
+  <file name="C:\Users\Trinh Gia Bao\Desktop\SEO\Web SEO\blog\blog\contentnguyenminhnhat.html"/>
+  <file name="C:\Users\Trinh Gia Bao\Desktop\SEO\Web SEO\blog\blog\contenttrinhgiabao.html"/>
+  <file name="C:\Users\Trinh Gia Bao\Desktop\SEO\Web SEO\blog\blog.html"/>
   <lastactivefile name=""/>
  </lastopfiles>
  <todoblock/>
  <dbgurls/>
- <lasttime value="1684761321"/>
+ <lasttime value="1684868374"/>
 </project>
